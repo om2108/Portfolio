@@ -1,0 +1,17 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" rx="64" fill="#0A0C10"/>
+  <circle cx="300" cy="220" r="110" fill="url(#paint0_radial_212_1)"/>
+  <path d="M120 520C140 420 218 350 300 350C382 350 460 420 480 520V600H120V520Z" fill="url(#paint1_linear_212_1)"/>
+  <circle cx="300" cy="224" r="56" fill="#0A1A27"/>
+  <rect x="202" y="108" width="196" height="52" rx="26" fill="#0F2434"/>
+  <defs>
+    <radialGradient id="paint0_radial_212_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 184) rotate(90) scale(168)">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </radialGradient>
+    <linearGradient id="paint1_linear_212_1" x1="120" y1="350" x2="480" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+</svg>
